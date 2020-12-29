@@ -1,6 +1,6 @@
 ## Hi there, I'm Mohamed Ibrahim 👋
 
-### I'm a Self-Tought Programmer, an Android Developer
+### I'm a Self-Taught Programmer, an Android Developer
 
 - 👨🏻‍💻 I’m currently working on Tilawa (Quran app for Android)
 - 📺 I just launched my coding [Youtube channel](https://www.youtube.com/channel/UCGbugmMPs-ChfBcA81p2YZQ)
