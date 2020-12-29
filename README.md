@@ -9,6 +9,13 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<details>
+  <summary>:zap: Top Langauges</summary>
+
+  <img align="left" alt="Top Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedisoliman" />
+
+</details>
+
 ---
 
 ### 📕 *My Latest Blog Posts*
@@ -34,12 +41,5 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Mohamed's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mohamedisoliman&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Top Langauges</summary>
-
-  <img align="left" alt="Top Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedisoliman" />
 
 </details>
