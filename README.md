@@ -10,9 +10,6 @@
 - ⚡ Fun fact: ...
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedisoliman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ### 📕 *My Latest Blog Posts*
 <!-- BLOG-POST-LIST:START -->
@@ -33,4 +30,16 @@
 
 ---
 
-[![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=mohamedisoliman&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Mohamed's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mohamedisoliman&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Top Langauges</summary>
+
+  <img align="left" alt="Top Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedisoliman&layout=compact" />
+
+</details>
