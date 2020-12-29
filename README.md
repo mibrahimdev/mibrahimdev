@@ -40,6 +40,6 @@
 <details>
   <summary>:zap: Top Langauges</summary>
 
-  <img align="left" alt="Top Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedisoliman&layout=compact" />
+  <img align="left" alt="Top Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedisoliman" />
 
 </details>
