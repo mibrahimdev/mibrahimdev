@@ -30,4 +30,4 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohamedisoliman&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=mohamedisoliman&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
