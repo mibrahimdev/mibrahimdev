@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedisoliman)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedisoliman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
