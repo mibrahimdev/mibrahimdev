@@ -2,12 +2,12 @@
 
 ### I'm a Self-Taught Programmer, an Android Developer
 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MohamedISoliman) ⋇ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedisoliman/)
+
 - 👨🏻‍💻 I’m currently working on Tilawa (Quran app for Android)
 - 📺 I just launched my coding [Youtube channel](https://www.youtube.com/channel/UCGbugmMPs-ChfBcA81p2YZQ)
 - 🌱 I’m currently learning Flutter  & iOS development 💻
 - 🥅 2020 Goals: Contribute more to Open Source projects
-
-### Find me on [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MohamedISoliman) && [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedisoliman/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedisoliman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
