@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,6 +11,10 @@
 
 ---
 
-## 📕 Blog posts
+### 📕 *My Latest Blog Posts*
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+### 📺 *Latest YouTube Videos*
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
