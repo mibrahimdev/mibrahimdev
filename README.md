@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Mohamed Ibrahim, a Muslim, Android developer👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -21,3 +21,8 @@
 ### 📺 *Latest YouTube Videos*
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
+➡️ [more videos...](https://www.youtube.com/channel/UCGbugmMPs-ChfBcA81p2YZQ)
+
+---
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohamedisoliman&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
