@@ -20,6 +20,11 @@
 
 ### 📺 *Latest YouTube Videos*
 <!-- YOUTUBE:START -->
+- [Touch Typing Day 11](https://www.youtube.com/watch?v=6zrDacXRves)
+- [Touch Typing Day 10](https://www.youtube.com/watch?v=Jtyc3PyyITU)
+- [Touch Typing Day 9](https://www.youtube.com/watch?v=5iMLPC9Sadg)
+- [Leetcode | Merge Two Sorted Lists | Java | Arabic](https://www.youtube.com/watch?v=eNp9dhLULDI)
+- [Touch Typing Day 8](https://www.youtube.com/watch?v=F_vVDnrPfFw)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/channel/UCGbugmMPs-ChfBcA81p2YZQ)
 
