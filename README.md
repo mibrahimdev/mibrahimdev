@@ -2,7 +2,7 @@
 
 ### I'm a Self-Tought Programmer, an Android Developer
 
-- 👨🏻‍💻 I’m currently working on Side Projects
+- 👨🏻‍💻 I’m currently working on Tellawa (soon to be open sourced)
 - 📺 I just launched my coding [Youtube channel](https://www.youtube.com/channel/UCGbugmMPs-ChfBcA81p2YZQ)
 - 🌱 I’m currently learning Flutter  & iOS development 💻
 - 🥅 2020 Goals: Contribute more to Open Source projects
