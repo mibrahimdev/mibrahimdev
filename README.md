@@ -20,11 +20,11 @@
 
 ### 📺 *Latest YouTube Videos*
 <!-- YOUTUBE:START -->
+- [Touch Typing Day 21](https://www.youtube.com/watch?v=C98ELoXENn8)
 - [Touch Typing Day 20](https://www.youtube.com/watch?v=TELr7OSQA_8)
 - [Touch Typing Day 19](https://www.youtube.com/watch?v=Rjv4Ze2fid4)
 - [Touch Typing Day 18](https://www.youtube.com/watch?v=WEgZeSWbxvw)
 - [Touch Typing Day 17](https://www.youtube.com/watch?v=Em_FdNE73yc)
-- [Touch Typing Day 16](https://www.youtube.com/watch?v=dtarAg6CVM8)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/channel/UCGbugmMPs-ChfBcA81p2YZQ)
 
