@@ -7,7 +7,7 @@
 - 👨🏻‍💻 I’m currently working on Tilawa (Quran app for Android)
 - 📺 I just launched my coding [Youtube channel](https://www.youtube.com/channel/UCGbugmMPs-ChfBcA81p2YZQ)
 - 🌱 I’m currently learning Jetpack Compose 💻
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ---
 
