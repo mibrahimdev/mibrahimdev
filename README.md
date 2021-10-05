@@ -13,11 +13,11 @@
 
 ### 📕 *My Latest Blog Posts*
 <!-- BLOG-POST-LIST:START -->
+- [How to be good that they can’t ignore you? The Software Engineering version](https://levelup.gitconnected.com/how-to-be-good-they-cant-ignore-you-the-software-engineering-version-ed80a53a0bdb?source=rss-865ef9ea000d------2)
 - [Flow: an intro for an RxJava user](https://medium.com/swlh/flow-an-intro-for-an-rxjava-user-1b5b6eb21790?source=rss-865ef9ea000d------2)
 - [Hello Kotlin Coroutines](https://medium.com/swlh/hello-kotlin-coroutines-4e40cb9a106c?source=rss-865ef9ea000d------2)
 - [Lambda design patterns](https://medium.com/@MohamedISoliman/lambda-design-patterns-d031451fccb1?source=rss-865ef9ea000d------2)
 - [The Evolution of Android Architecture patterns](https://medium.com/@MohamedISoliman/the-evolution-of-android-architecture-patterns-6ab78b81570a?source=rss-865ef9ea000d------2)
-- [Android Architecture components walk-through](https://medium.com/@MohamedISoliman/android-architecture-components-walk-through-b19b439a2f01?source=rss-865ef9ea000d------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 *Latest YouTube Videos*
