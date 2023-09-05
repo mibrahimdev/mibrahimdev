@@ -6,7 +6,7 @@
 
 ---
 
-### 📕 *My Latest Blog Posts*
+### ✍🏼 *My Latest Blog Posts*
 <!-- BLOG-POST-LIST:START -->
 - [How to be so good that they can’t ignore you? The Software Engineering version](https://levelup.gitconnected.com/how-to-be-good-they-cant-ignore-you-the-software-engineering-version-ed80a53a0bdb?source=rss-865ef9ea000d------2)
 - [Flow: an intro for an RxJava user](https://medium.com/swlh/flow-an-intro-for-an-rxjava-user-1b5b6eb21790?source=rss-865ef9ea000d------2)
@@ -15,7 +15,7 @@
 - [The Evolution of Android Architecture patterns](https://medium.com/@mibrahimdev/the-evolution-of-android-architecture-patterns-6ab78b81570a?source=rss-865ef9ea000d------2)
 <!-- BLOG-POST-LIST:END -->
 
-### 📺 *Latest YouTube Videos*
+### 🎥 *Latest YouTube Videos*
 <!-- YOUTUBE:START -->
 - [خريطة تعلم برمجة تطبيقات الأندرويد](https://www.youtube.com/watch?v=tJbHMoKly74)
 - [There&#39;s no shortcuts](https://www.youtube.com/watch?v=13Tb0U2u_uw)
