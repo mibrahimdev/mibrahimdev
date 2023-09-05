@@ -5,8 +5,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mibrahimdev) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mibrahimdev/) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGbugmMPs-ChfBcA81p2YZQ) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mibrahimdev)
 
 ---
-<div class="markdown" dir=ltr>
-
 
 ### ✍🏼 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -17,6 +15,7 @@
 - [The Evolution of Android Architecture patterns](https://medium.com/@mibrahimdev/the-evolution-of-android-architecture-patterns-6ab78b81570a?source=rss-865ef9ea000d------2)
 <!-- BLOG-POST-LIST:END -->
 
+<div class="markdown" dir=ltr>
 ### 🎥 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [خريطة تعلم برمجة تطبيقات الأندرويد](https://www.youtube.com/watch?v=tJbHMoKly74)
@@ -26,10 +25,9 @@
 - [Background Tasks](https://www.youtube.com/watch?v=BNn4_7SJcd4)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/channel/UCGbugmMPs-ChfBcA81p2YZQ)
-
+</div>
 ---
 
-</div>
 
 <picture>
   <source
