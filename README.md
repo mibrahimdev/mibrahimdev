@@ -15,10 +15,10 @@
 - [The Evolution of Android Architecture patterns](https://medium.com/@mibrahimdev/the-evolution-of-android-architecture-patterns-6ab78b81570a?source=rss-865ef9ea000d------2)
 <!-- BLOG-POST-LIST:END -->
 
-<div class="markdown" dir=ltr>
-
 ### 🎥 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+<div class="markdown" dir=ltr>
+
 - [خريطة تعلم برمجة تطبيقات الأندرويد](https://www.youtube.com/watch?v=tJbHMoKly74)
 - [There&#39;s no shortcuts](https://www.youtube.com/watch?v=13Tb0U2u_uw)
 - [تعلم استخدام المكتبات البرمجية](https://www.youtube.com/watch?v=jO1TzDvZ5xE)
@@ -27,11 +27,9 @@
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/channel/UCGbugmMPs-ChfBcA81p2YZQ)
 
----
-
 </div>
 
-
+---
 
 <picture>
   <source
