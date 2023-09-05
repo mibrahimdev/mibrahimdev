@@ -16,6 +16,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <div class="markdown" dir=ltr>
+
 ### 🎥 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [خريطة تعلم برمجة تطبيقات الأندرويد](https://www.youtube.com/watch?v=tJbHMoKly74)
@@ -25,8 +26,11 @@
 - [Background Tasks](https://www.youtube.com/watch?v=BNn4_7SJcd4)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/channel/UCGbugmMPs-ChfBcA81p2YZQ)
-</div>
+
 ---
+
+</div>
+
 
 
 <picture>
