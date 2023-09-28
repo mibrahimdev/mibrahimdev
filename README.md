@@ -17,11 +17,11 @@
 
 ### 🎥 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [28-09-2023](https://www.youtube.com/watch?v=2WLONRfM3xY)
 - [Touch Typing Day 20](https://www.youtube.com/watch?v=r8S_MZlk9Dw)
 - [Stop procrastinating 🔴](https://www.youtube.com/watch?v=QJOkn3ZouDM)
 - [تعلم استخدام المكتبات البرمجية](https://www.youtube.com/watch?v=jO1TzDvZ5xE)
 - [مهارات التحقيق Debugging](https://www.youtube.com/watch?v=DcVMICqOd50)
+- [Background Tasks](https://www.youtube.com/watch?v=BNn4_7SJcd4)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/channel/UCGbugmMPs-ChfBcA81p2YZQ)
 
