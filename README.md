@@ -17,11 +17,11 @@
 
 ### 🎥 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🔻نصيحة الشيخ أحمد السيد لشباب الأمة🔻](https://www.youtube.com/watch?v=k8TTbKQBHTo)
 - [🔻وصية نفيسة للشيخ الطريفي فك الله أسره🔻](https://www.youtube.com/watch?v=hJ2wmRe6oZs)
 - [Stop procrastinating 🔴](https://www.youtube.com/watch?v=QJOkn3ZouDM)
 - [تعلم استخدام المكتبات البرمجية](https://www.youtube.com/watch?v=jO1TzDvZ5xE)
 - [مهارات التحقيق Debugging](https://www.youtube.com/watch?v=DcVMICqOd50)
-- [Background Tasks](https://www.youtube.com/watch?v=BNn4_7SJcd4)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/channel/UCGbugmMPs-ChfBcA81p2YZQ)
 
