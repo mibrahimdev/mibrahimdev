@@ -17,11 +17,11 @@
 
 ### 🎥 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [دورة أساسيات Kotlin](https://www.youtube.com/watch?v=XWw7XxPsWQI)
 - [لا يطول عليك الأمد ..](https://www.youtube.com/watch?v=5IgQ_CyhQ4Y)
 - [🔻اجعل لنفسك قيمة حقيقية 🔻](https://www.youtube.com/watch?v=wrQaSsG3hHM)
 - [🔻نصيحة الشيخ أحمد السيد لشباب الأمة🔻](https://www.youtube.com/watch?v=k8TTbKQBHTo)
 - [🔻وصية نفيسة للشيخ الطريفي فك الله أسره🔻](https://www.youtube.com/watch?v=hJ2wmRe6oZs)
+- [Stop procrastinating 🔴](https://www.youtube.com/watch?v=QJOkn3ZouDM)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/channel/UCGbugmMPs-ChfBcA81p2YZQ)
 
