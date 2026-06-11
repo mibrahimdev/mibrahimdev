@@ -7,7 +7,6 @@
 [![Website](https://img.shields.io/badge/mibrahimdev.github.io-8755e6?style=for-the-badge&logo=githubpages&logoColor=white)](https://mibrahimdev.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1b1b20?style=for-the-badge&logo=linkedin&logoColor=a37aff)](https://www.linkedin.com/in/mibrahimdev/)
 [![YouTube](https://img.shields.io/badge/YouTube-1b1b20?style=for-the-badge&logo=youtube&logoColor=a37aff)](https://www.youtube.com/@mibrahimdev)
-[![X](https://img.shields.io/badge/X-1b1b20?style=for-the-badge&logo=x&logoColor=a37aff)](https://twitter.com/mibrahimdev)
 [![Email](https://img.shields.io/badge/Email-1b1b20?style=for-the-badge&logo=gmail&logoColor=a37aff)](mailto:mibrahim.dev@gmail.com)
 
 </div>
