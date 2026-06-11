@@ -1,42 +1,52 @@
-## Hi there, I'm Mohamed Ibrahim 👋
+<div align="center">
 
-### Android Engineer | Kotlin Enthusiast 🐞
+# `mibrahimdev`
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mibrahimdev) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mibrahimdev/) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGbugmMPs-ChfBcA81p2YZQ) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mibrahimdev)
+**Senior Android Engineer — building reliable, delightful apps.**
 
----
-
-### ✍🏼 My Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How to be so good that they can’t ignore you? The Software Engineering version](https://levelup.gitconnected.com/how-to-be-good-they-cant-ignore-you-the-software-engineering-version-ed80a53a0bdb?source=rss-865ef9ea000d------2)
-- [Flow: an intro for an RxJava user](https://medium.com/swlh/flow-an-intro-for-an-rxjava-user-1b5b6eb21790?source=rss-865ef9ea000d------2)
-- [Hello Kotlin Coroutines](https://medium.com/swlh/hello-kotlin-coroutines-4e40cb9a106c?source=rss-865ef9ea000d------2)
-- [Lambda design patterns](https://medium.com/@mibrahimdev/lambda-design-patterns-d031451fccb1?source=rss-865ef9ea000d------2)
-- [The Evolution of Android Architecture patterns](https://medium.com/@mibrahimdev/the-evolution-of-android-architecture-patterns-6ab78b81570a?source=rss-865ef9ea000d------2)
-<!-- BLOG-POST-LIST:END -->
-
-### 🎥 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [لو ناوي تسافر](https://www.youtube.com/watch?v=YVPHnnB-NzI)
-- [لا يطول عليك الأمد ..](https://www.youtube.com/watch?v=5IgQ_CyhQ4Y)
-- [🔻اجعل لنفسك قيمة حقيقية 🔻](https://www.youtube.com/watch?v=wrQaSsG3hHM)
-- [🔻نصيحة الشيخ أحمد السيد لشباب الأمة🔻](https://www.youtube.com/watch?v=k8TTbKQBHTo)
-- [🔻وصية نفيسة للشيخ الطريفي فك الله أسره🔻](https://www.youtube.com/watch?v=hJ2wmRe6oZs)
-<!-- YOUTUBE:END -->
-➡️ [more videos...](https://www.youtube.com/channel/UCGbugmMPs-ChfBcA81p2YZQ)
+[![Website](https://img.shields.io/badge/mibrahimdev.github.io-8755e6?style=for-the-badge&logo=githubpages&logoColor=white)](https://mibrahimdev.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1b1b20?style=for-the-badge&logo=linkedin&logoColor=a37aff)](https://www.linkedin.com/in/mibrahimdev/)
+[![YouTube](https://img.shields.io/badge/YouTube-1b1b20?style=for-the-badge&logo=youtube&logoColor=a37aff)](https://www.youtube.com/@mibrahimdev)
+[![X](https://img.shields.io/badge/X-1b1b20?style=for-the-badge&logo=x&logoColor=a37aff)](https://twitter.com/mibrahimdev)
+[![Email](https://img.shields.io/badge/Email-1b1b20?style=for-the-badge&logo=gmail&logoColor=a37aff)](mailto:mibrahim.dev@gmail.com)
 
 </div>
 
----
+```console
+$ whoami
+Senior Android Engineer · Bristol, UK · status: open to work
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mibrahimdev&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mibrahimdev&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=mibrahimdev&show_icons=true" />
-</picture>
+9+ years building consumer Android at scale — IoT, food delivery, mobility
+and telecom. Most recently on MyDyson, Dyson's smart-home app used by
+millions worldwide, with end-to-end ownership from architecture through
+release. Deep in Kotlin, Jetpack Compose and Coroutines — expanding into
+Kotlin Multiplatform.
+```
+
+### `$ open ~/portfolio`
+
+Everything in one place — CV, articles and videos: **[mibrahimdev.github.io](https://mibrahimdev.github.io)**
+· [Download CV](https://docs.google.com/document/d/19t0GOOusM0mNlJBHKPU1zR8bi7fLvXyPaOsIL6qKOpI/export?format=pdf)
+
+### `$ cat ~/articles`
+
+<!-- BLOG-POST-LIST:START -->
+- [Kotlin Gems: the reified keyword](https://mibrahimdev.github.io/reified-keyword/)
+- [Kotlin Gems: infix functions](https://mibrahimdev.github.io/infix-operator/)
+- [Kotlin Gems: crossinline functions](https://mibrahimdev.github.io/crossinline-functions/)
+- [Kotlin Gems: inline &amp; noinline functions](https://mibrahimdev.github.io/inline-noinline-functions/)
+- [Kotlin Gems: Delegated Properties](https://mibrahimdev.github.io/delegated-properties/)
+<!-- BLOG-POST-LIST:END -->
+
+→ [all articles](https://mibrahimdev.github.io/blog/)
+
+### `$ play ~/videos`
+
+> *"Learn it by doing, master it by explaining — enjoy the journey in between."*
+
+[![Watch on YouTube](https://img.shields.io/badge/Watch_on_YouTube-1b1b20?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/@mibrahimdev)
+[![Latest videos](https://img.shields.io/badge/Latest_videos-8755e6?style=for-the-badge&logo=githubpages&logoColor=white)](https://mibrahimdev.github.io/videos/)
+
+### `$ git log --stat`
+
+<img src="https://github-readme-stats.vercel.app/api?username=mibrahimdev&show_icons=true&bg_color=0f0f13&title_color=a37aff&icon_color=8755e6&text_color=e7e7eb&border_color=1b1b20" alt="GitHub stats for mibrahimdev" />
