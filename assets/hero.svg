@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="Mohamed Ibrahim — Senior Android Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#14111f"/>
+      <stop offset="1" stop-color="#241640"/>
+    </linearGradient>
+    <linearGradient id="k" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e44857"/>
+      <stop offset=".5" stop-color="#c711e1"/>
+      <stop offset="1" stop-color="#7f52ff"/>
+    </linearGradient>
+    <style>
+      text { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .name { fill: #ffffff; font-size: 40px; font-weight: 700; }
+      .role { fill: #c9b8ff; font-size: 18px; }
+      .code { fill: #8b7fb0; font-size: 13px; }
+      .num  { fill: #ffffff; font-size: 30px; font-weight: 700; }
+      .lbl  { fill: #a99cc9; font-size: 12px; letter-spacing: 1px; }
+    </style>
+  </defs>
+
+  <rect width="900" height="260" rx="16" fill="url(#bg)"/>
+  <!-- Kotlin mark, oversized and faded as a backdrop -->
+  <path d="M640 -20 L900 -20 L770 110 L900 240 L640 240 Z" fill="url(#k)" opacity=".18"/>
+
+  <text x="44" y="70" class="name">Mohamed Ibrahim</text>
+  <text x="44" y="102" class="role">Senior Android Engineer · Kotlin · Compose · KMP · IoT</text>
+  <text x="44" y="128" class="mono code">val location = "Bristol, UK"; val status = OpenToWork</text>
+
+  <line x1="44" y1="152" x2="856" y2="152" stroke="#3a2d5c"/>
+
+  <g>
+    <text x="44"  y="200" class="num">9+</text>
+    <text x="44"  y="224" class="lbl">YEARS ON ANDROID</text>
+    <text x="250" y="200" class="num">5M+</text>
+    <text x="250" y="224" class="lbl">USERS ON MYDYSON</text>
+    <text x="456" y="200" class="num">6</text>
+    <text x="456" y="224" class="lbl">COMPANIES · 4 DOMAINS</text>
+    <text x="662" y="200" class="num">50+</text>
+    <text x="662" y="224" class="lbl">MENTORING SESSIONS</text>
+  </g>
+</svg>
