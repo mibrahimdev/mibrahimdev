@@ -61,7 +61,7 @@ with end-to-end ownership from architecture through release.
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mibrahimdev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a37aff&icon_color=8755e6&text_color=e6edf3" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mibrahimdev&show_icons=true&hide_border=true&bg_color=ffffff&title_color=6f3fd1&icon_color=8755e6&text_color=1f2328" alt="GitHub stats for mibrahimdev" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mibrahimdev&show_icons=true&hide_border=true&disable_animations=true&bg_color=0d1117&title_color=a37aff&icon_color=8755e6&text_color=e6edf3" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mibrahimdev&show_icons=true&hide_border=true&disable_animations=true&bg_color=ffffff&title_color=6f3fd1&icon_color=8755e6&text_color=1f2328" alt="GitHub stats for mibrahimdev" />
 </picture>
 </div>
