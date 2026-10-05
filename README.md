@@ -15,23 +15,7 @@ I build consumer Android apps at scale: smart-home IoT, food delivery, mobility 
 
 ## 🧭 Career
 
-```mermaid
-gantt
-    dateFormat YYYY-MM
-    axisFormat %Y
-    section IoT
-    Dyson · MyDyson           :active, 2024-03, 2026-03
-    section Food delivery
-    TryCarriage (Delivery Hero) :2019-09, 2022-01
-    TryCarriage (return)        :2022-12, 2023-06
-    section Mobility
-    Swvl                      :2022-02, 2022-11
-    section Telecom
-    Vodafone VIS              :2017-12, 2019-06
-    section Startups
-    Entrepreware · Edufy      :2016-09, 2017-04
-    IntelliCoders · Shaifak   :2017-04, 2017-12
-```
+<img src="assets/career.svg" alt="Career timeline 2016–2026: Entrepreware, IntelliCoders, Vodafone VIS, TryCarriage (Delivery Hero), Swvl, Dyson" width="100%"/>
 
 <details open>
 <summary><b>Dyson</b> · Senior Android Engineer · 2024–2026 · <i>MyDyson, 5M+ downloads</i></summary>

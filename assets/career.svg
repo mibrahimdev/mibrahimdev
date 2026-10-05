@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="270" viewBox="0 0 900 270" role="img" aria-label="Career timeline 2016–2026: Entrepreware, IntelliCoders, Vodafone VIS, TryCarriage (Delivery Hero), Swvl, Dyson">
+  <style>
+    text { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 13px; fill: #e6e1f5; }
+    .d { fill: #a99cc9; font-size: 11px; }
+    .y { fill: #8b7fb0; font-size: 12px; text-anchor: middle; }
+    .e { text-anchor: end; }
+  </style>
+  <rect width="900" height="270" rx="16" fill="#14111f"/>
+  <!-- year grid: x = 60 + (year - 2016) * 78 -->
+  <g stroke="#2a2342">
+    <line x1="60" y1="18" x2="60" y2="226"/><line x1="138" y1="18" x2="138" y2="226"/><line x1="216" y1="18" x2="216" y2="226"/>
+    <line x1="294" y1="18" x2="294" y2="226"/><line x1="372" y1="18" x2="372" y2="226"/><line x1="450" y1="18" x2="450" y2="226"/>
+    <line x1="528" y1="18" x2="528" y2="226"/><line x1="606" y1="18" x2="606" y2="226"/><line x1="684" y1="18" x2="684" y2="226"/>
+    <line x1="762" y1="18" x2="762" y2="226"/><line x1="840" y1="18" x2="840" y2="226"/>
+  </g>
+  <g>
+    <text x="60" y="250" class="y">2016</text><text x="138" y="250" class="y">2017</text><text x="216" y="250" class="y">2018</text>
+    <text x="294" y="250" class="y">2019</text><text x="372" y="250" class="y">2020</text><text x="450" y="250" class="y">2021</text>
+    <text x="528" y="250" class="y">2022</text><text x="606" y="250" class="y">2023</text><text x="684" y="250" class="y">2024</text>
+    <text x="762" y="250" class="y">2025</text><text x="840" y="250" class="y">2026</text>
+  </g>
+
+  <!-- Dyson · IoT -->
+  <rect x="697" y="26" width="156" height="16" rx="8" fill="#7f52ff"/>
+  <text x="687" y="38" class="e"><tspan font-weight="700">Dyson</tspan> · MyDyson <tspan class="d">IoT · Senior</tspan></text>
+  <!-- Swvl · Mobility -->
+  <rect x="534.5" y="60" width="58.5" height="16" rx="8" fill="#f59e0b"/>
+  <text x="524" y="72" class="e"><tspan font-weight="700">Swvl</tspan> <tspan class="d">Mobility · Senior</tspan></text>
+  <!-- TryCarriage · Food delivery (two stints) -->
+  <rect x="346" y="94" width="182" height="16" rx="8" fill="#e44857"/>
+  <rect x="599.5" y="94" width="39" height="16" rx="8" fill="#e44857"/>
+  <text x="336" y="106" class="e"><tspan font-weight="700">TryCarriage</tspan> · Delivery Hero <tspan class="d">Food delivery · Senior</tspan></text>
+  <!-- Vodafone · Telecom -->
+  <rect x="209.5" y="128" width="117" height="16" rx="8" fill="#e60000"/>
+  <text x="336" y="140"><tspan font-weight="700">Vodafone VIS</tspan> <tspan class="d">Telecom · Senior</tspan></text>
+  <!-- Startups -->
+  <rect x="157.5" y="162" width="52" height="16" rx="8" fill="#3ddc84"/>
+  <text x="219" y="174"><tspan font-weight="700">IntelliCoders</tspan> · Shaifak <tspan class="d">Family locator</tspan></text>
+  <rect x="112" y="196" width="45.5" height="16" rx="8" fill="#3ddc84"/>
+  <text x="167" y="208"><tspan font-weight="700">Entrepreware</tspan> · Edufy <tspan class="d">EdTech</tspan></text>
+</svg>
