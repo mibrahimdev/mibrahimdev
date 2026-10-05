@@ -1,33 +1,39 @@
 <div align="center">
 
-# `mibrahimdev`
+<h1>Mohamed Ibrahim</h1>
 
-**Senior Android Engineer — building reliable, delightful apps.**
+<p><b>Senior Android Engineer</b> — building reliable, delightful apps<br/>
+<sub>Bristol, UK · 9+ years · open to work</sub></p>
 
-[![Website](https://img.shields.io/badge/mibrahimdev.github.io-8755e6?style=for-the-badge&logo=githubpages&logoColor=white)](https://mibrahimdev.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1b1b20?style=for-the-badge&logo=linkedin&logoColor=a37aff)](https://www.linkedin.com/in/mibrahimdev/)
-[![YouTube](https://img.shields.io/badge/YouTube-1b1b20?style=for-the-badge&logo=youtube&logoColor=a37aff)](https://www.youtube.com/@mibrahimdev)
-[![Email](https://img.shields.io/badge/Email-1b1b20?style=for-the-badge&logo=gmail&logoColor=a37aff)](mailto:mibrahim.dev@gmail.com)
+<a href="https://mibrahimdev.github.io"><img src="https://img.shields.io/badge/Portfolio-8755e6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/mibrahimdev/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+" alt="LinkedIn"/></a>
+<a href="https://www.youtube.com/@mibrahimdev"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="mailto:mibrahim.dev@gmail.com"><img src="https://img.shields.io/badge/Email-1b1b20?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://docs.google.com/document/d/19t0GOOusM0mNlJBHKPU1zR8bi7fLvXyPaOsIL6qKOpI/export?format=pdf"><img src="https://img.shields.io/badge/Download_CV-1b1b20?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV"/></a>
 
 </div>
 
 ```console
 $ whoami
-Senior Android Engineer · Bristol, UK · status: open to work
-
-9+ years building consumer Android at scale — IoT, food delivery, mobility
-and telecom. Most recently on MyDyson, Dyson's smart-home app used by
-millions worldwide, with end-to-end ownership from architecture through
-release. Deep in Kotlin, Jetpack Compose and Coroutines — expanding into
-Kotlin Multiplatform.
+Consumer Android at scale — IoT, food delivery, mobility and telecom.
+Most recently on MyDyson, Dyson's smart-home app used by millions worldwide,
+with end-to-end ownership from architecture through release.
 ```
 
-### `$ open ~/portfolio`
+### 🛠 Stack
 
-Everything in one place — CV, articles and videos: **[mibrahimdev.github.io](https://mibrahimdev.github.io)**
-· [Download CV](https://docs.google.com/document/d/19t0GOOusM0mNlJBHKPU1zR8bi7fLvXyPaOsIL6qKOpI/export?format=pdf)
+![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285f4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines_%26_Flow-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-8755e6?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303a?style=flat-square&logo=gradle&logoColor=white)
 
-### `$ cat ~/articles`
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### ✍️ Latest articles
 
 <!-- BLOG-POST-LIST:START -->
 - [Kotlin Gems: the reified keyword](https://mibrahimdev.github.io/reified-keyword/)
@@ -37,15 +43,25 @@ Everything in one place — CV, articles and videos: **[mibrahimdev.github.io](h
 - [Kotlin Gems: Delegated Properties](https://mibrahimdev.github.io/delegated-properties/)
 <!-- BLOG-POST-LIST:END -->
 
-→ [all articles](https://mibrahimdev.github.io/blog/)
+→ [All articles](https://mibrahimdev.github.io/blog/)
 
-### `$ play ~/videos`
+</td>
+<td valign="top" width="50%">
 
-> *"Learn it by doing, master it by explaining — enjoy the journey in between."*
+### 🎬 Videos
 
-[![Watch on YouTube](https://img.shields.io/badge/Watch_on_YouTube-1b1b20?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/@mibrahimdev)
-[![Latest videos](https://img.shields.io/badge/Latest_videos-8755e6?style=for-the-badge&logo=githubpages&logoColor=white)](https://mibrahimdev.github.io/videos/)
+> *Learn it by doing, master it by explaining — enjoy the journey in between.*
 
-### `$ git log --stat`
+→ [Latest videos](https://mibrahimdev.github.io/videos/)<br/>
+→ [YouTube channel](https://www.youtube.com/@mibrahimdev)
 
-<img src="https://github-readme-stats.vercel.app/api?username=mibrahimdev&show_icons=true&bg_color=0f0f13&title_color=a37aff&icon_color=8755e6&text_color=e7e7eb&border_color=1b1b20" alt="GitHub stats for mibrahimdev" />
+</td>
+</tr>
+</table>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mibrahimdev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a37aff&icon_color=8755e6&text_color=e6edf3" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mibrahimdev&show_icons=true&hide_border=true&bg_color=ffffff&title_color=6f3fd1&icon_color=8755e6&text_color=1f2328" alt="GitHub stats for mibrahimdev" />
+</picture>
+</div>
