@@ -89,11 +89,11 @@ Senior Android Engineer building consumer products at scale across IoT, food del
 ## ✍️ Writing & mentoring
 
 <!-- BLOG-POST-LIST:START -->
-- [Kotlin Gems: the reified keyword](http://mibrahimdev.github.io//reified-keyword/)
-- [Kotlin Gems: infix functions](http://mibrahimdev.github.io//infix-operator/)
-- [Kotlin Gems: crossinline functions](http://mibrahimdev.github.io//crossinline-functions/)
-- [Kotlin Gems: inline &amp;amp; noinline functions](http://mibrahimdev.github.io//inline-noinline-functions/)
-- [Kotlin Gems: Delegated Properties](http://mibrahimdev.github.io//delegated-properties/)
+- [Kotlin Gems: the reified keyword](https://mibrahimdev.github.io/reified-keyword/)
+- [Kotlin Gems: infix functions](https://mibrahimdev.github.io/infix-operator/)
+- [Kotlin Gems: crossinline functions](https://mibrahimdev.github.io/crossinline-functions/)
+- [Kotlin Gems: inline &amp;amp; noinline functions](https://mibrahimdev.github.io/inline-noinline-functions/)
+- [Kotlin Gems: Delegated Properties](https://mibrahimdev.github.io/delegated-properties/)
 <!-- BLOG-POST-LIST:END -->
 
 → [All articles](https://mibrahimdev.github.io/blog/) · [Videos](https://mibrahimdev.github.io/videos/)
